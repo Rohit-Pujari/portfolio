@@ -1,0 +1,105 @@
+export const tools = [
+  {
+    image: "/images/tools/python.png",
+    link: "https://en.wikipedia.org/wiki/Python_(programming_language)",
+    title: "Python",
+    description: "High-level language for web development, data analysis, and AI",
+  },
+  {
+    image: "/images/tools/java.png",
+    link: "https://en.wikipedia.org/wiki/Java_(programming_language)",
+    title: "Java",
+    description: "Object-oriented language for enterprise and Android app development",
+  },
+  {
+    image: "/images/tools/javascript.png",
+    link: "https://en.wikipedia.org/wiki/JavaScript",
+    title: "JavaScript",
+    description: "Client-side scripting language for web applications",
+  },
+  {
+    image: "/images/tools/git.png",
+    link: "https://en.wikipedia.org/wiki/Git",
+    title: "Git",
+    description: "Version control system for collaborative software development",
+  },
+  {
+    image: "/images/tools/github.png",
+    link: "https://en.wikipedia.org/wiki/GitHub",
+    title: "GitHub",
+    description: "Cloud-based platform for collaborative software development",
+  },
+  {
+    image: "/images/tools/bootstrap.png",
+    link: "https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)",
+    title: "Bootstrap",
+    description: "UI framework for responsive web design",
+  },
+  {
+    image: "/images/tools/tailwindcss.png",
+    link: "https://en.wikipedia.org/wiki/Tailwind_CSS",
+    title: "Tailwind CSS",
+    description: "Utility-first CSS framework for rapid development",
+  },
+  {
+    image: "/images/tools/react.png",
+    link: "https://en.wikipedia.org/wiki/React_(JavaScript_library)",
+    title: "React",
+    description: "JavaScript library for building user interfaces",
+  },
+  {
+    image: "/images/tools/nextjs.png",
+    link: "https://en.wikipedia.org/wiki/Next.js",
+    title: "Next.js",
+    description: "React-based framework for server-rendered web applications",
+  },
+  {
+    image: "/images/tools/docker.png",
+    link: "https://en.wikipedia.org/wiki/Docker_(software)",
+    title: "Docker",
+    description: "Containerization platform for deploying applications",
+  },
+  {
+    image: "/images/tools/mongodb.png",
+    link: "https://en.wikipedia.org/wiki/MongoDB",
+    title: "MongoDB",
+    description: "NoSQL database for storing large amounts of data",
+  },
+  {
+    image: "/images/tools/mysql.png",
+    link: "https://en.wikipedia.org/wiki/MySQL",
+    title: "MySQL",
+    description: "Relational database management system",
+  },
+  {
+    image: "/images/tools/spring.png",
+    link: "https://en.wikipedia.org/wiki/Spring_Framework",
+    title: "Spring",
+    description: "Java-based framework for building enterprise applications",
+  },
+  {
+    image: "/images/tools/redux.png",
+    link: "https://en.wikipedia.org/wiki/Redux_(JavaScript_library)",
+    title: "Redux",
+    description: "State management library for JavaScript applications",
+  },
+  {
+    image: "/images/tools/redis.png",
+    link: "https://en.wikipedia.org/wiki/Redis",
+    title: "Redis",
+    description: "In-memory data store for caching and session management",
+  },
+  {
+    image: "/images/tools/postman.png",
+    link: "https://en.wikipedia.org/wiki/Postman_(software)",
+    title: "Postman",
+    description: "API testing tool for debugging and documentation",
+  },
+  {
+    image: "/images/tools/djangorest.png",
+    link: "https://en.wikipedia.org/wiki/Django_Rest_Framework",
+    title: "Django REST framework",
+    description: "Django-based framework for building RESTful APIs",
+  },
+];
+
