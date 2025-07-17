@@ -9,12 +9,6 @@ function Hero() {
       style={{ perspective: "1000px" }}
     >
       <TiltedCard imageSrc={"/images/avatar.jpg"} imageHeight={"22vh"} imageWidth={"22vh"} />
-      {/* <img
-        className="h-[22vh] rounded-2xl lg:grayscale hover:grayscale-0 transform hover:-translate-y-1 duration-400 shadow-2xl z-50 tilt-card"
-        style={{ transformStyle: "preserve-3d", willChange: "transform" }}
-        src="/images/avatar.jpg"
-        alt="avatar"
-      /> */}
       <p className="text-sm text-center md:text-left leading-relaxed break-words">
         I'm Rohit Pujari, a passionate web developer and Linux enthusiast who
         loves building clean, dynamic interfaces with modern tools like React,
