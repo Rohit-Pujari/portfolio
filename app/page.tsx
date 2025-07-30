@@ -5,7 +5,6 @@ import Work from "@/components/Work";
 export default function Home() {
   return (
     <main className="relative z-10 flex flex-col justify-center items-center gap-6 p-6">
-      {/* <Nav /> */}
       <Hero />
       <Tools />
       <Work />

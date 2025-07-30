@@ -3,13 +3,15 @@ export const tools = [
     image: "/images/tools/python.png",
     link: "https://docs.python.org/3/",
     title: "Python",
-    description: "High-level language for web development, data analysis, and AI",
+    description:
+      "High-level language for web development, data analysis, and AI",
   },
   {
     image: "/images/tools/java.png",
     link: "https://docs.oracle.com/en/java/",
     title: "Java",
-    description: "Object-oriented language for enterprise and Android app development",
+    description:
+      "Object-oriented language for enterprise and Android app development",
   },
   {
     image: "/images/tools/javascript.png",
@@ -21,7 +23,8 @@ export const tools = [
     image: "/images/tools/git.png",
     link: "https://git-scm.com/docs",
     title: "Git",
-    description: "Version control system for collaborative software development",
+    description:
+      "Version control system for collaborative software development",
   },
   {
     image: "/images/tools/github.png",
@@ -48,16 +51,16 @@ export const tools = [
     description: "JavaScript library for building user interfaces",
   },
   {
-    image: "/images/tools/nextjs.png",
-    link: "https://nextjs.org/docs/getting-started",
-    title: "Next.js",
-    description: "React-based framework for server-rendered web applications",
-  },
-  {
     image: "/images/tools/docker.png",
     link: "https://docs.docker.com/get-started/",
     title: "Docker",
     description: "Containerization platform for deploying applications",
+  },
+  {
+    image: "/images/tools/mysql.png",
+    link: "https://dev.mysql.com/doc/",
+    title: "MySQL",
+    description: "Relational database management system",
   },
   {
     image: "/images/tools/mongodb.png",
@@ -66,10 +69,10 @@ export const tools = [
     description: "NoSQL database for storing large amounts of data",
   },
   {
-    image: "/images/tools/mysql.png",
-    link: "https://dev.mysql.com/doc/",
-    title: "MySQL",
-    description: "Relational database management system",
+    image: "/images/tools/nextjs.png",
+    link: "https://nextjs.org/docs/getting-started",
+    title: "Next.js",
+    description: "React-based framework for server-rendered web applications",
   },
   {
     image: "/images/tools/spring.png",
@@ -102,4 +105,3 @@ export const tools = [
     description: "Django-based framework for building RESTful APIs",
   },
 ];
-
