@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import Particles from "@/components/Particles";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export const metadata: Metadata = {
   title: "Rohit Pujari | Developer Portfolio",
@@ -59,6 +60,7 @@ export default function RootLayout({
           />
         </div>
         {children}
+        <SpeedInsights/>
       </body>
     </html>
   );
