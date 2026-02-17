@@ -4,7 +4,7 @@ import { tools } from '@/constants'
 
 function Tools() {
   return (
-    <div className='relative rounded-xl w-fit h-fit lg:w-[50vw] lg:h-[50vh]'>
+    <div className='relative rounded-xl'>
       <InfiniteMenu items={tools} />
     </div>
   )
